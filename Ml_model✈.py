@@ -6,7 +6,6 @@ import pandas as pd
 
 st.title("Flight Fare Price Prediction")
 st.write('This app predicts the **flight fare price!**')
-st.write("zeko")
 # sidebae
 st.sidebar.title("Flight Fare Price Prediction")
 
